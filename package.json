@@ -1,0 +1,24 @@
+{
+  "name": "amerexpress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Website",
+  "main": "amerexpress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amere/blabla.git"
+  },
+  "author": "Ahmed Amer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amere/blabla/issues"
+  },
+  "homepage": "https://github.com/Amere/blabla#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "handlebar": "^1.0.0"
+  }
+}
